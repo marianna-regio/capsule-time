@@ -1,4 +1,3 @@
-// QUANDO O SERVIDOR FALHAR EXECUTAR O ARQUIVO COM npm run dev//
 import 'dotenv/config'
 
 import fastify from 'fastify'
@@ -32,7 +31,6 @@ app.register(memoriesRoutes)
 app.register(authRoutes)
 app.register(uploadRoutes)
 
-// ouvindo a porta 3333//
 app
   .listen({
     port: 3333,
