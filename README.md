@@ -4,6 +4,13 @@
 Capsule Time é uma aplicação web que permite aos usuários criar uma conta, fazer login usando a autenticação OAuth com o GitHub e criar uma linha do tempo de memórias com fotos e textos.
 
 Projeto desenvolvido na trilha Ignite da 12ª edição da Next Level Week - NLW Spacetime da Rocketseat 🚀
+
+
+![image](https://github.com/marianna-regio/capsule-time/assets/126937060/fa3c3960-f135-4476-ab7f-5cfea2dd9af8)
+
+
+![capsule-time](https://github.com/marianna-regio/capsule-time/assets/126937060/b0b96c3b-ecd3-4af4-b77d-5d5a2bac4d1c)
+
 <hr>
 
 ### 🛠️ Funcionalidades
